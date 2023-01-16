@@ -13,7 +13,7 @@
 
 <!-- device trees -->
 
-        <project path="device/realme/RMX2020" name="android_device_realme_RMX2020" remote="DintzOnly" revision="superior" />
+        <project path="device/realme/RMX2020" name="android_device_realme_RMX2020" remote="DintzOnly" revision="Superior" />
         <project path="vendor/realme/RMX2020" name="android_vendor_realme_RMX2020" remote="DintzOnly" revision="arrow-13.0" />
         <project path="vendor/realme/RMX2020-ims" name="android_vendor_realme_RMX2020-ims" remote="DintzOnly" revision="arrow-13.0" />
         <project path="kernel/realme/RMX2020" name="android_kernel_realme_RMX2020" remote="DintzOnly" revision="arrow-13.0" clone-depth="1" />
