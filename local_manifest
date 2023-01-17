@@ -26,15 +26,15 @@
 <!-- Replacement -->
 
         <remove-project name="android_frameworks_base" />
-        <project path="frameworks/base" name="android_frameworks_base" remote="DintzOnly" revision="tiramisu" />
+        <project path="frameworks/base" name="android_frameworks_base" remote="DintzOnly" revision="thirteen" />
 
         <remove-project name="android_frameworks_native" />
-        <project path="frameworks/native" name="android_frameworks_native" remote="DintzOnly" revision="tiramisu" />
+        <project path="frameworks/native" name="android_frameworks_native" remote="DintzOnly" revision="thirteen" />
         
         <remove-project name="android_frameworks_av" />
-        <project path="frameworks/av" name="android_frameworks_av" remote="DintzOnly" revision="tiramisu" />
+        <project path="frameworks/av" name="android_frameworks_av" remote="DintzOnly" revision="thirteen" />
 
         <remove-project name="android_packages_modules_Wifi" />
-        <project path="packages/modules/Wifi" name="android_packages_modules_Wifi" remote="DintzOnly" revision="tiramisu" />
+        <project path="packages/modules/Wifi" name="android_packages_modules_Wifi" remote="DintzOnly" revision="twelvedotone" />
   
      </manifest>
